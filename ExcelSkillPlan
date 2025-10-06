@@ -36,24 +36,24 @@ Build a clean, interactive dashboard featuring:
 
 ---
 
-## 🎨 Quarter 2 – Advanced Interactive Dashboard
+## ⚙️ Quarter 2 – Automation & Efficiency
 
 **LinkedIn Learning Courses**
-- [Excel: Mastering Pivot Table Dashboards and Reports – Jordan Goldmeier](https://www.linkedin.com/learning/excel-mastering-pivot-table-dashboards-and-reports)
-- [Excel Data Visualization: Mastering 20+ Charts and Graphs – Jordan Goldmeier](https://www.linkedin.com/learning/excel-data-visualization-mastering-20-charts-and-graphs)
+- [Excel: VBA for Creative Problem Solving – Part 1 (Oz du Soleil & Curt Frye)](https://www.linkedin.com/learning/excel-vba-for-creative-problem-solving-part-1)
+- [Excel: VBA for Creative Problem Solving – Part 2 (Oz du Soleil & Curt Frye)](https://www.linkedin.com/learning/excel-vba-for-creative-problem-solving-part-2)
+- [Excel: VBA for Creative Problem Solving – Part 3 (Oz du Soleil & Curt Frye)](https://www.linkedin.com/learning/excel-vba-for-creative-problem-solving-part-3)
+- [Excel: Power Query for Beginners – Oz du Soleil](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020)
 
 **YouTube Playlists**
-- [Interactive Excel Dashboards – Leila Gharani](https://www.youtube.com/playlist?list=PL3VDeqI88oV7w8NSxq74CJ4owmtw_QsER)
-- [Create an Interactive Dashboard in 5 Steps – ExcelIsFun](https://www.youtube.com/watch?v=eaSg0mu6nLM)
+- [Excel Macros & VBA Tutorials – Leila Gharani](https://www.youtube.com/playlist?list=PLmHVyfmcRKyyI4rADdNUTuC_OHOGkCjQb)
+- [Power Query Basics – MyOnlineTrainingHub](https://www.youtube.com/playlist?list=PLzj7TwUeMQ3jK3FRC-lG2pMtVih5S9rL2)
 
 **Practice Worksheet**
-👉 [Q2_Advanced_Interactive_Dashboard.xlsx](sandbox:/mnt/data/Q2_Advanced_Interactive_Dashboard.xlsx)
+👉 [Q2_Advanced_Interactive_Dashboard.xlsx](sandbox:/mnt/data/Q2_Advanced_Interactive_Dashboard.xlsx)  
+*(You can rename this file “Q2_Automation_and_Efficiency.xlsx” before uploading.)*
 
-**Goal**
-Refine your first dashboard by:
-- Adding calculated fields (e.g., Revenue per Unit)  
-- Creating Top 5 filters and % of total views  
-- Using dynamic chart titles and consistent formatting  
+**Goal:**  
+Learn to automate repetitive Excel tasks, create macros, and use Power Query for modern data cleaning and transformation.
 
 ---
 
