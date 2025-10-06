@@ -1,0 +1,109 @@
+# 📊 Excel Portfolio – MBA Skills Development Plan
+This repository documents my 12-month Excel learning roadmap combining **LinkedIn Learning coursework**, **YouTube practice videos**, and **hands-on Excel projects** that demonstrate data analysis, dashboard creation, automation, and business modeling. This was written by ChatGPT and I don't claim any ownership of it. 
+
+---
+
+## 🗓️ 12-Month Plan Overview
+Each quarter builds progressively toward mastery:
+
+| Quarter | Focus | Core Skills | Practice File |
+|----------|--------|--------------|----------------|
+| Q1 | Core Dashboards & PivotTables | Data summarization, visual storytelling | [Download Q1_Sales_Performance_Dashboard.xlsx](sandbox:/mnt/data/Q1_Sales_Performance_Dashboard.xlsx) |
+| Q2 | Advanced Dashboard Design | Interactivity, top-performer analysis, calculated fields | [Download Q2_Advanced_Interactive_Dashboard.xlsx](sandbox:/mnt/data/Q2_Advanced_Interactive_Dashboard.xlsx) |
+| Q3 | Data Cleaning & Power Query | Data import, transformation, deduplication, normalization | [Download Q3_Data_Cleaning_and_Import_Tool.xlsx](sandbox:/mnt/data/Q3_Data_Cleaning_and_Import_Tool.xlsx) |
+| Q4 | Forecast & Optimization | Scenario modeling, NPV/IRR, Solver optimization | [Download Q4_Forecast_and_Optimization_Model.xlsx](sandbox:/mnt/data/Q4_Forecast_and_Optimization_Model.xlsx) |
+
+---
+
+## 🧩 Quarter 1 – Core Dashboards & PivotTables
+
+**LinkedIn Learning Courses**
+- [Excel: Dashboards for Beginners – Jordan Goldmeier](https://www.linkedin.com/learning/excel-dashboards-for-beginners)
+- [Excel: PivotTables for Beginners – Jess Stratton](https://www.linkedin.com/learning/excel-pivottables-for-beginners-23358327)
+
+**YouTube Playlists**
+- [Excel Dashboard Tutorial Series – MyOnlineTrainingHub](https://www.youtube.com/playlist?list=PLzj7TwUeMQ3g1WJPlf-mojgdR3gN-JWIz)
+- [Excel PivotTables Crash Course – Leila Gharani](https://www.youtube.com/playlist?list=PLmHVyfmcRKyz_4TwSfxzN_gsRtg3ODzyx)
+
+**Practice Worksheet**
+👉 [Q1_Sales_Performance_Dashboard.xlsx](sandbox:/mnt/data/Q1_Sales_Performance_Dashboard.xlsx)
+
+**Goal**
+Build a clean, interactive dashboard featuring:
+- PivotTables summarizing Revenue by Region, Category, Salesperson, and Month  
+- KPI cards: Total Revenue, Units Sold, Top Region, Top Salesperson  
+- Interactive slicers + Timeline  
+
+---
+
+## 🎨 Quarter 2 – Advanced Interactive Dashboard
+
+**LinkedIn Learning Courses**
+- [Excel: Mastering Pivot Table Dashboards and Reports – Jordan Goldmeier](https://www.linkedin.com/learning/excel-mastering-pivot-table-dashboards-and-reports)
+- [Excel Data Visualization: Mastering 20+ Charts and Graphs – Jordan Goldmeier](https://www.linkedin.com/learning/excel-data-visualization-mastering-20-charts-and-graphs)
+
+**YouTube Playlists**
+- [Interactive Excel Dashboards – Leila Gharani](https://www.youtube.com/playlist?list=PL3VDeqI88oV7w8NSxq74CJ4owmtw_QsER)
+- [Create an Interactive Dashboard in 5 Steps – ExcelIsFun](https://www.youtube.com/watch?v=eaSg0mu6nLM)
+
+**Practice Worksheet**
+👉 [Q2_Advanced_Interactive_Dashboard.xlsx](sandbox:/mnt/data/Q2_Advanced_Interactive_Dashboard.xlsx)
+
+**Goal**
+Refine your first dashboard by:
+- Adding calculated fields (e.g., Revenue per Unit)  
+- Creating Top 5 filters and % of total views  
+- Using dynamic chart titles and consistent formatting  
+
+---
+
+## 🧹 Quarter 3 – Data Cleaning & Power Query
+
+**LinkedIn Learning Course**
+- [Excel: Power Query for Beginners – Oz du Soleil](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020)
+
+**YouTube Playlist**
+- [Excel Power Query Tutorials – MyOnlineTrainingHub](https://www.youtube.com/playlist?list=PLzj7TwUeMQ3jK3FRC-lG2pMtVih5S9rL2)
+
+**Practice Worksheet**
+👉 [Q3_Data_Cleaning_and_Import_Tool.xlsx](sandbox:/mnt/data/Q3_Data_Cleaning_and_Import_Tool.xlsx)
+
+**Goal**
+Use Power Query to:
+- Clean and normalize messy data (spaces, casing, invalid emails, mixed date formats)  
+- Remove duplicates and standardize phone numbers  
+- Load results into a “Clean_Data” table with Refresh All functionality  
+
+---
+
+## 📈 Quarter 4 – Forecasting & Optimization
+
+**LinkedIn Learning Courses**
+- [Excel: Solving Business Problems – Curt Frye](https://www.linkedin.com/learning/excel-solving-business-problems)
+- [Excel: Advanced Financial Functions – Chris Dutton](https://www.linkedin.com/learning/excel-advanced-financial-functions)
+
+**YouTube Playlists**
+- [Financial Modeling in Excel – Leila Gharani](https://www.youtube.com/playlist?list=PL3VDeqI88oV4V4qfYy6OnKZ4BvD4MZUZR)
+- [Excel Solver Optimization Projects – ExcelIsFun](https://www.youtube.com/playlist?list=PLrRPvpgDmw0nXwYdE6QAK1hmY5c3GJE6Y)
+
+**Practice Worksheet**
+👉 [Q4_Forecast_and_Optimization_Model.xlsx](sandbox:/mnt/data/Q4_Forecast_and_Optimization_Model.xlsx)
+
+**Goal**
+Build a professional business model:
+- Forecast 5-year cash flows with NPV/IRR  
+- Add best/worst/base scenarios with switchable assumptions  
+- Use Solver to maximize profit under resource constraints  
+- Visualize KPIs and cash flow trends  
+
+---
+
+## 📚 Portfolio Completion Tips
+- Each worksheet forms one **project folder** in your GitHub portfolio.  
+- Include a short project summary (`README.md`) per folder describing **problem → Excel solution → business impact**.  
+- Take screenshots of final dashboards and include them in your README files.  
+- Use your main repository README (this file) as your learning roadmap.
+
+---
+
+💡 *All practice files are self-contained and safe to upload publicly as part of a professional portfolio.*
