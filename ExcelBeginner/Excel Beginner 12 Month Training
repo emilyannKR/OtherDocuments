@@ -1,0 +1,135 @@
+# 12-Month Excel Training Course for Beginners
+
+This 12-month Excel training plan is designed for individuals with little to no prior experience in Excel. Each month focuses on key foundational and intermediate skills, building progressively toward advanced applications such as data analysis, dashboards, and automation. Every section includes hands-on practice and step-by-step instructions.
+
+---
+
+## Month 1: Introduction to Excel Interface
+- Open Excel and explore the Ribbon, Tabs, and Quick Access Toolbar.
+- Learn how to save, open, and close workbooks.
+- Understand worksheets, columns, rows, and cells.
+- Enter basic data into cells (text, numbers, and dates).
+- Adjust column width and row height.
+- Practice using Undo, Redo, and Autofill.
+
+🎥 Watch: [Excel Tutorial for Beginners by Kevin Stratvert](https://www.youtube.com/watch?v=LgXzzu68j7M)
+
+---
+
+## Month 2: Formatting and Basic Operations
+- Apply cell formatting: bold, italic, underline, borders, and fill color.
+- Use alignment and text wrapping tools.
+- Format numbers as currency, percentages, or dates.
+- Merge and center titles.
+- Practice basic formulas: =SUM(), =AVERAGE(), =MIN(), =MAX().
+- Use AutoSum to quickly total rows and columns.
+
+🎥 Watch: [Master Excel Basics in NO TIME by Teacher’s Tech](https://www.youtube.com/watch?v=kSQmPK-tWnw)
+
+---
+
+## Month 3: Relative and Absolute References
+- Understand the difference between relative, absolute ($A$1), and mixed references.
+- Create formulas that reference multiple cells or sheets.
+- Use the Fill Handle to copy formulas correctly.
+- Practice linking data between sheets.
+
+🎥 Watch: [Excel Beginner Tutorial by Learnit Training](https://www.youtube.com/watch?v=310z5K14JXw)
+
+---
+
+## Month 4: Data Entry and Cleaning
+- Use Find & Replace and Go To Special.
+- Remove duplicates and blank rows.
+- Use TRIM(), PROPER(), UPPER(), and LOWER() functions to clean text.
+- Sort and filter data alphabetically or numerically.
+- Practice data validation (drop-down lists, restrictions).
+
+🎥 Watch: [Excel Tutorial for Beginners (Made Easy) by MyOnlineTrainingHub](https://www.youtube.com/watch?v=fzdn1vcHPsA)
+
+---
+
+## Month 5: Charts and Visualization
+- Insert and customize column, line, and pie charts.
+- Add chart titles, legends, and axis labels.
+- Format chart elements (colors, styles, layouts).
+- Use sparklines for mini trend visuals.
+- Practice selecting the right chart for different datasets.
+
+🎥 Watch: [Excel Tutorial for Beginners by Kevin Stratvert (Charts Section)](https://www.youtube.com/watch?v=LgXzzu68j7M)
+
+---
+
+## Month 6: Intermediate Formulas
+- Practice using IF(), COUNTIF(), and SUMIF().
+- Use nested IF() statements.
+- Understand logical operators (> < = <>).
+- Learn about text functions: LEFT(), RIGHT(), MID(), CONCAT().
+
+🎥 Watch: [Get Ahead FAST! Excel Express Tutorial for BEGINNERS! by Teacher’s Tech](https://www.youtube.com/watch?v=p_NvzCJ31D0)
+
+---
+
+## Month 7: Working with Tables
+- Convert data ranges into Tables (Ctrl + T).
+- Use structured references in formulas.
+- Apply Table styles and filters.
+- Add calculated columns and Total Rows.
+
+🎥 Watch: [Get Ahead FAST! Excel Express Tutorial for BEGINNERS! by Teacher’s Tech](https://www.youtube.com/watch?v=p_NvzCJ31D0)
+
+---
+
+## Month 8: PivotTables and PivotCharts
+- Insert a PivotTable from raw data.
+- Drag and drop fields into Rows, Columns, Values, and Filters.
+- Summarize data by count, sum, and average.
+- Group data by month or category.
+- Create a PivotChart from the same dataset.
+
+🎥 Watch: [Pivot Table Excel Tutorial by Kevin Stratvert](https://www.youtube.com/watch?v=m0wI61ahfLc)
+
+---
+
+## Month 9: Lookup and Reference Functions
+- Use VLOOKUP() to find values in tables.
+- Learn the benefits of XLOOKUP() and INDEX-MATCH().
+- Troubleshoot #N/A and #REF! errors.
+- Practice cross-sheet lookups using named ranges.
+
+🎥 Watch: [Excel Tutorial from Basic to Advanced for Data Analyst by Satish Dhawale](https://www.youtube.com/watch?v=XbyiTh-6k9Q)
+
+---
+
+## Month 10: Data Analysis Tools
+- Use conditional formatting to highlight key data points.
+- Apply color scales and icon sets for trends.
+- Use the Data Analysis Toolpak for descriptive statistics.
+- Create scenarios and use Goal Seek.
+
+🎥 Watch: [Excel Tutorial for Beginners (Made Easy) by MyOnlineTrainingHub](https://www.youtube.com/watch?v=fzdn1vcHPsA)
+
+---
+
+## Month 11: Dashboards and Reporting
+- Combine charts, slicers, and PivotTables into a dashboard.
+- Use shapes and icons for professional layout.
+- Link summary tables to source data.
+- Add dynamic titles and interactive elements.
+
+🎥 Watch: [Hands-On Excel Tutorial Beginner to Pro Course (2024) by Pragmatic Works](https://www.youtube.com/watch?v=dxKK3rbubvo)
+
+---
+
+## Month 12: Automation and Advanced Topics
+- Record and run basic macros.
+- Use relative references in macro recording.
+- Intro to Power Query for importing and cleaning data.
+- Review advanced formula combinations (INDEX-MATCH, IFERROR, etc.).
+- Capstone Project: Create a personal dashboard using learned skills.
+
+🎥 Watch: [Hands-On Excel Tutorial Beginner to Pro Course (2024) by Pragmatic Works](https://www.youtube.com/watch?v=dxKK3rbubvo)
+
+---
+
+By the end of this program, you will be confident in data organization, analysis, visualization, and automation using Excel. Continue practicing with real-world datasets and explore Power BI, VBA, or advanced analytics for further growth.
